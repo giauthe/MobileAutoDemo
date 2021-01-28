@@ -1,0 +1,14 @@
+#for mobile
+
+run_on_failure: Capture Page Screenshot
+address:  http://localhost:4723/wd/hub
+webdriver: headlesschrome
+#valid_pin: "111111"
+#
+#app: /resources/smartpay.apk
+#app_package: com.smartpay_1
+#app_wait_activity: com.smartpay_1.MainActivity
+#
+#device_name: iphone x
+#platform_version: "9.0"
+#udid: 2DR4C18B13011634

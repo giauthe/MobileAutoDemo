@@ -1,0 +1,4 @@
+#ignore
+keywords/common/__pycache__
+results/*
+.pabotsuitenames
